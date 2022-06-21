@@ -1,0 +1,21 @@
+{
+  "short_name": "Cognirdle",
+  "name": "Cognirdle",
+  "icons": [
+    {
+      "src": "https://cognirdle.github.io/images/cognirdle_32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://cognirdle.github.io/images/cognirdle_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://cognirdle.github.io",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#047FD3",
+  "description": "A daily Cognira word game"
+}
