@@ -1,4 +1,4 @@
-# Cognirdle
+# Retail Nerdle
 
 🔗 http://www.cognira.com
 
